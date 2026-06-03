@@ -69,7 +69,7 @@ Created visualizations to understand customer characteristics:
 
 ## Age Distribution
 
-<img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/47108505-4d64-4708-9c51-748bb9cbac5a" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/47108505-4d64-4708-9c51-748bb9cbac5a" />
 
 ## Observation
 Most customers belong to the middle-aged group between 30 and 50 years.
@@ -77,7 +77,7 @@ Very young and very old customers represent a smaller portion of the dataset.
 
 ## Job Distribution
 
-<img width="1023" height="612" alt="image" src="https://github.com/user-attachments/assets/4c7ec98c-f987-4442-983c-9053efe5949f" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/4c7ec98c-f987-4442-983c-9053efe5949f" />
 
 ## Observation
 Blue-collar, management, and technician professions constitute a significant portion of the customer base. 
@@ -85,7 +85,7 @@ Some job categories contain considerably fewer customers.
 
 ## Marital Status Distribution
 
-<img width="635" height="470" alt="image" src="https://github.com/user-attachments/assets/e5bc7302-8310-44d4-8591-faee5bc57a9a" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/e5bc7302-8310-44d4-8591-faee5bc57a9a" />
 
 ## Observatiion
 Married customers form the largest customer segment, followed by single customers. 
@@ -94,21 +94,21 @@ Divorced customers represent the smallest group
 
 ## Education Distribution
 
-<img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/390ebbf6-5d50-4928-8716-933b708ff534" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/390ebbf6-5d50-4928-8716-933b708ff534" />
 
 ## Observation
 Secondary education is the most common education level among customers, followed by tertiary education.
 
 ## Loan Acceptance Distribution
 
-<img width="558" height="393" alt="image" src="https://github.com/user-attachments/assets/51f2f3d6-1668-4380-b160-a638126793fe" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/51f2f3d6-1668-4380-b160-a638126793fe" />
 
 ## Observation
 The majority of customers did not subscribe to the loan offer, confirming the class imbalance observed earlier.
 
 ## Loan Acceptance by Marital Status
 
-<img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/4fc7851d-8a88-4ed8-835b-937b9731219a" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/4fc7851d-8a88-4ed8-835b-937b9731219a" />
 
 ## Observation
 Loan acceptance varies across marital groups.
