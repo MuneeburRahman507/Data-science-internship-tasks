@@ -123,7 +123,3 @@ Data Science & Analytics Internship
 DevelopersHub Corporation
 
 
-
-## Submission
-
-This repository was created as part of the DevelopersHub Corporation Data Science & Analytics Internship program and contains completed internship tasks demonstrating analytical and machine learning skills.
