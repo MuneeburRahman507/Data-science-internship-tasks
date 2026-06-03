@@ -83,27 +83,6 @@ Predict whether a customer is likely to accept a personal loan offer using demog
 - Scikit-Learn
 - Jupyter Notebook
 
-
-## Repository Structure
-
-Data-Science-Internship-Tasks/
-│
-├── Task-1-Iris-Dataset-Analysis/
-│   ├── Iris_Analysis.ipynb
-│   └── README.md
-
-│
-├── Task-4-Insurance-Charges-Prediction/
-│   ├── Insurance_Charges_Prediction.ipynb
-│   └── README.md
-
-│
-├── Task-5-Personal-Loan-Acceptance-Prediction/
-│   ├── Personal_Loan_Acceptance_Prediction.ipynb
-│   └── README.md
-│
-└── README.md
-
 ## Key Learnings
 
 Through these projects, I gained practical experience in:
